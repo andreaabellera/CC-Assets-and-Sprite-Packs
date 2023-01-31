@@ -32,7 +32,7 @@ def main():
 
                 if heading != curr_heading:
                     curr_heading = heading
-                    readme.write('### ' + heading)
+                    readme.write('### ' + heading + '\n')
 
                 if isImg(name):
                     shortname = name[:len(name)-4]

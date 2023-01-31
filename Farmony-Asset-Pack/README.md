@@ -1,7 +1,8 @@
 # Farmony Asset Pack
-This pack comes with character, dialog UI, map tiling, item, and collectible seed and plant sprites as featured in the game [Farmony](https://lecfinney.itch.io/farmony).
+This pack comes with character, dialog UI, map tiling, item, and collectible seed and plant sprites as featured in the game [Farmony](https://github.com/MinhPhan23/Farmony).
 ![_banner_](/Farmony-Asset-Pack/_banner_.gif)
-### /boyHB![boyHB1](/Farmony-Asset-Pack/boyHB/boyHB1.png)
+### /boyHB
+![boyHB1](/Farmony-Asset-Pack/boyHB/boyHB1.png)
 ![boyHB10](/Farmony-Asset-Pack/boyHB/boyHB10.png)
 ![boyHB11](/Farmony-Asset-Pack/boyHB/boyHB11.png)
 ![boyHB12](/Farmony-Asset-Pack/boyHB/boyHB12.png)
@@ -19,7 +20,8 @@ This pack comes with character, dialog UI, map tiling, item, and collectible see
 ![boyHB7](/Farmony-Asset-Pack/boyHB/boyHB7.png)
 ![boyHB8](/Farmony-Asset-Pack/boyHB/boyHB8.png)
 ![boyHB9](/Farmony-Asset-Pack/boyHB/boyHB9.png)
-### /characters![cowboydown](/Farmony-Asset-Pack/characters/cowboydown.png)
+### /characters
+![cowboydown](/Farmony-Asset-Pack/characters/cowboydown.png)
 ![cowboyside](/Farmony-Asset-Pack/characters/cowboyside.png)
 ![cowboyup](/Farmony-Asset-Pack/characters/cowboyup.png)
 ![daddown](/Farmony-Asset-Pack/characters/daddown.png)
@@ -32,7 +34,8 @@ This pack comes with character, dialog UI, map tiling, item, and collectible see
 ![piratedown](/Farmony-Asset-Pack/characters/piratedown.png)
 ![pirateside](/Farmony-Asset-Pack/characters/pirateside.png)
 ![pirateup](/Farmony-Asset-Pack/characters/pirateup.png)
-### /characters/boy![boydown1](/Farmony-Asset-Pack/characters/boy/boydown1.png)
+### /characters/boy
+![boydown1](/Farmony-Asset-Pack/characters/boy/boydown1.png)
 ![boydown2](/Farmony-Asset-Pack/characters/boy/boydown2.png)
 ![boydown3](/Farmony-Asset-Pack/characters/boy/boydown3.png)
 ![boydown4](/Farmony-Asset-Pack/characters/boy/boydown4.png)
@@ -56,7 +59,8 @@ This pack comes with character, dialog UI, map tiling, item, and collectible see
 ![boyup6](/Farmony-Asset-Pack/characters/boy/boyup6.png)
 ![boyup7](/Farmony-Asset-Pack/characters/boy/boyup7.png)
 ![boyup8](/Farmony-Asset-Pack/characters/boy/boyup8.png)
-### /characters/mom![momdown1](/Farmony-Asset-Pack/characters/mom/momdown1.png)
+### /characters/mom
+![momdown1](/Farmony-Asset-Pack/characters/mom/momdown1.png)
 ![momdown2](/Farmony-Asset-Pack/characters/mom/momdown2.png)
 ![momdown3](/Farmony-Asset-Pack/characters/mom/momdown3.png)
 ![momdown4](/Farmony-Asset-Pack/characters/mom/momdown4.png)
@@ -80,11 +84,13 @@ This pack comes with character, dialog UI, map tiling, item, and collectible see
 ![momup6](/Farmony-Asset-Pack/characters/mom/momup6.png)
 ![momup7](/Farmony-Asset-Pack/characters/mom/momup7.png)
 ![momup8](/Farmony-Asset-Pack/characters/mom/momup8.png)
-### /dialogbox![dialogboxgreen](/Farmony-Asset-Pack/dialogbox/dialogboxgreen.png)
+### /dialogbox
+![dialogboxgreen](/Farmony-Asset-Pack/dialogbox/dialogboxgreen.png)
 ![dialogboxorange](/Farmony-Asset-Pack/dialogbox/dialogboxorange.png)
 ![dialogboxpaper](/Farmony-Asset-Pack/dialogbox/dialogboxpaper.png)
 ![dialogboxyellow](/Farmony-Asset-Pack/dialogbox/dialogboxyellow.png)
-### /items![barrel](/Farmony-Asset-Pack/items/barrel.png)
+### /items
+![barrel](/Farmony-Asset-Pack/items/barrel.png)
 ![cactus1](/Farmony-Asset-Pack/items/cactus1.png)
 ![cactus2](/Farmony-Asset-Pack/items/cactus2.png)
 ![chair](/Farmony-Asset-Pack/items/chair.png)
@@ -105,7 +111,8 @@ This pack comes with character, dialog UI, map tiling, item, and collectible see
 ![tree](/Farmony-Asset-Pack/items/tree.png)
 ![tumbleweed](/Farmony-Asset-Pack/items/tumbleweed.png)
 ![well](/Farmony-Asset-Pack/items/well.png)
-### /plants![bamboo](/Farmony-Asset-Pack/plants/bamboo.png)
+### /plants
+![bamboo](/Farmony-Asset-Pack/plants/bamboo.png)
 ![bugloss](/Farmony-Asset-Pack/plants/bugloss.png)
 ![cactus](/Farmony-Asset-Pack/plants/cactus.png)
 ![grape](/Farmony-Asset-Pack/plants/grape.png)
@@ -115,7 +122,8 @@ This pack comes with character, dialog UI, map tiling, item, and collectible see
 ![maple](/Farmony-Asset-Pack/plants/maple.png)
 ![poinsettia](/Farmony-Asset-Pack/plants/poinsettia.png)
 ![sprout](/Farmony-Asset-Pack/plants/sprout.png)
-### /seeds![bambooSeed](/Farmony-Asset-Pack/seeds/bambooSeed.png)
+### /seeds
+![bambooSeed](/Farmony-Asset-Pack/seeds/bambooSeed.png)
 ![buglossSeed](/Farmony-Asset-Pack/seeds/buglossSeed.png)
 ![cactusSeed](/Farmony-Asset-Pack/seeds/cactusSeed.png)
 ![grapeSeed](/Farmony-Asset-Pack/seeds/grapeSeed.png)
@@ -124,7 +132,8 @@ This pack comes with character, dialog UI, map tiling, item, and collectible see
 ![mandrakeSeed](/Farmony-Asset-Pack/seeds/mandrakeSeed.png)
 ![mapleSeed](/Farmony-Asset-Pack/seeds/mapleSeed.png)
 ![poinsettiaSeed](/Farmony-Asset-Pack/seeds/poinsettiaSeed.png)
-### /textures![bridge1](/Farmony-Asset-Pack/textures/bridge1.png)
+### /textures
+![bridge1](/Farmony-Asset-Pack/textures/bridge1.png)
 ![bridge2](/Farmony-Asset-Pack/textures/bridge2.png)
 ![cobble](/Farmony-Asset-Pack/textures/cobble.png)
 ![grass1](/Farmony-Asset-Pack/textures/grass1.png)
