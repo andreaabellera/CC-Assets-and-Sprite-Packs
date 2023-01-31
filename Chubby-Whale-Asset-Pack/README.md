@@ -1,5 +1,6 @@
 # Chubby Whale Asset Pack
 This pack comes with a chubby pink whale sprite and some sea tile assets.
+
 ![column](/Chubby-Whale-Asset-Pack/column.jpg)
 ![coral](/Chubby-Whale-Asset-Pack/coral.jpg)
 ![rock](/Chubby-Whale-Asset-Pack/rock.jpg)

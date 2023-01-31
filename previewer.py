@@ -21,7 +21,7 @@ def main():
 
         title = ' '.join(dirname.split('-'))
         readme.write('# ' + title + '\n')
-        readme.write(preface + '\n')
+        readme.write(preface + '\n\n')
 
         for root, directories, contents in os.walk(path, topdown=True):
             curr_heading = "/"
